@@ -1,7 +1,7 @@
 # FieldGateway.LoRa.DuinoClientUV
 Sample UV Sensor monitor for my [LoRa](https://lora-alliance.org/) field gateway projects
 
-I used the [Arduino-Lora](https://github.com/sandeepmistry/arduino-LoRa) & [Seeedstudion VEML6070](https://github.com/Seeed-Studio/Seeed_VEML6070) libraries, thank you to the authors Sandeep Mistry & Seeedstudio.
+I used the [Arduino-Lora](https://github.com/sandeepmistry/arduino-LoRa) & [Seeedstudio VEML6070](https://github.com/Seeed-Studio/Seeed_VEML6070) libraries, thank you to the authors Sandeep Mistry & Seeedstudio.
 
 Device options
 
@@ -25,3 +25,4 @@ Extras
 
 ![Seeeduino Client](SeeeduinoDevice.jpg)
 
+Currently trying to work out what the units of measurement are
