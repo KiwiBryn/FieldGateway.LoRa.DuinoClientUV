@@ -25,8 +25,6 @@
       https://www.seeedstudio.com/Grove-I2C-UV-Sensor-VEML607-p-3195.html
    
 */
-#define DEBUG_VEML6070 
-
 #include <LoRa.h>
 #include <Seeed_VEML6070.h>
 
